@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "debugSales new",
+    'name': "debugSales new 2",
 
     'summary': """
     	new
