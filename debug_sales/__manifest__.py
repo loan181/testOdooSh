@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "debugSales new 2020",
+    'name': "debugSales not app",
 
     'summary': """
     	new
@@ -35,6 +35,6 @@
         'demo/demo.xml',
     ],
     'installable': True,
-    'application': True,
+    'application': False,
     'auto_install': True,
 }
