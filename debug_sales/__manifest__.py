@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "debugSales not app",
+    'name': "debugSales not app version 2000",
 
     'summary': """
     	new
