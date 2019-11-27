@@ -1,7 +1,9 @@
 <odoo>
     <data>
+    <!--
         <record id="res_partner_1996" model="res.partner">
             <field name="name">Agrolait</field>
         </record>
+    -->
     </data>
 </odoo>
